@@ -328,7 +328,8 @@ def main():
         page_icon="🏭", 
         layout="wide"
     )
-    
+    st.title("🏭 Manufacturing Intelligence Dashboard")
+    st.subheader("Real-time Equipment Performance Monitoring")
     # Retrieve API Key from environment variable
     groq_api_key = os.getenv('GROQ_API_KEY')
     
