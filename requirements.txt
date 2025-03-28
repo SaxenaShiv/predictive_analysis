@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+joblib
+ollama
+httpx
+sqlalchemy
+streamlit
+groq
